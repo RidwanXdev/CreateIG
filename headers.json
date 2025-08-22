@@ -1,0 +1,18 @@
+{
+  "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36",
+  "Content-Type": "application/x-www-form-urlencoded; application/x-www-form-urlencoded;charset=UTF-8",
+  "sec-ch-ua-full-version-list": "\"Not;A=Brand\";v=\"99.0.0.0\", \"Google Chrome\";v=\"139.0.7258.143\", \"Chromium\";v=\"139.0.7258.143\"",
+  "sec-ch-ua-platform": "\"Android\"",
+  "sec-ch-ua": "\"Not;A=Brand\";v=\"99\", \"Google Chrome\";v=\"139\", \"Chromium\";v=\"139\"",
+  "sec-ch-ua-model": "\"V2237\"",
+  "sec-ch-ua-mobile": "?1",
+  "sec-ch-prefers-color-scheme": "light",
+  "sec-ch-ua-platform-version": "\"15.0.0\"",
+  "origin": "https://www.instagram.com",
+  "sec-fetch-site": "same-origin",
+  "sec-fetch-mode": "cors",
+  "sec-fetch-dest": "empty",
+  "referer": "https://www.instagram.com/accounts/signup/email/",
+  "accept-language": "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7",
+  "priority": "u=1, i"
+}
