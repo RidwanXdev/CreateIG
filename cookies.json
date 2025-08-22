@@ -1,9 +1,10 @@
 {
-    'csrftoken': 'vfQPYQ7niiagCSOvsMNU45IoZaNlcgKg',
-    'mid': 'aKcywgAEAAHB001ajsyHQQXkPNBp',
-    'ig_did': 'A8C4F571-A024-4882-9388-C5750A2D81DB',
-    'ig_nrcb': '1',
-    'dpr': '2.34375',
-    'datr': 'wzKnaDnZmD1Q1zV00AzdwbsJ',
-    'wd': '461x891',
+  "csrftoken": "vfQPYQ7niiagCSOvsMNU45IoZaNlcgKg",
+  "mid": "aKcywgAEAAHB001ajsyHQQXkPNBp",
+  "ig_did": "A8C4F571-A024-4882-9388-C5750A2D81DB",
+  "ig_nrcb": "1",
+  "dpr": "2.34375",
+  "datr": "wzKnaDnZmD1Q1zV00AzdwbsJ",
+  "wd": "461x891"
 }
+
